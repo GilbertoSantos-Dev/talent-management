@@ -5,7 +5,7 @@
     - Na próxima versão este código será convertivo para dentro de um container Docker
 
 ## Instalação
-Todos estes itens abaixo devem ser executados no terminal
+    Todos estes itens abaixo devem ser executados no terminal
     - Após clonado o repositório, crie uma venv
     - Ative a venv que foi criada
     - execute 
@@ -14,7 +14,7 @@ Todos estes itens abaixo devem ser executados no terminal
         - python manage.py migrate
 
 ## Configurações Iniciais
-Todos estes itens abaixo devem ser executados no terminal
+    Todos estes itens abaixo devem ser executados no terminal
     - crie um usuário administrador, para isto execute 
         - python manage.py createsuperuser
         - Responda as perguntas que irão aparecer no terminal (nome de usuário, e-mail e senha)
